@@ -11,7 +11,7 @@ make
 To pull from docker hub:
 
 ```
-docker pull najamkhn/bootcljs
+docker pull najamkhn/bootclj
 ```
 
 ___
